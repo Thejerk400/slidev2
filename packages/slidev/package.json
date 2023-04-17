@@ -91,7 +91,7 @@
     "resolve-global": "^1.0.0",
     "shiki": "^0.14.1",
     "unocss": "^0.50.6",
-    "unplugin-icons": "^0.15.3",
+    "unplugin-icons": "^0.16.0",
     "unplugin-vue-components": "^0.24.1",
     "vite": "^4.2.1",
     "vite-plugin-inspect": "^0.7.18",
