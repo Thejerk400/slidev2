@@ -96,7 +96,7 @@
     "vite": "^4.2.1",
     "vite-plugin-inspect": "^0.7.18",
     "vite-plugin-remote-assets": "^0.3.1",
-    "vite-plugin-vue-markdown": "^0.22.4",
+    "vite-plugin-vue-markdown": "^0.23.0",
     "vite-plugin-vue-server-ref": "^0.3.1",
     "vite-plugin-windicss": "^1.8.10",
     "vue": "^3.2.47",
